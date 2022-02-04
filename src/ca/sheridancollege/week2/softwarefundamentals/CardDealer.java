@@ -20,7 +20,7 @@ public class CardDealer
         aceHearts.setSuit("Clubs");
         Card KingDiamonds = new Card ("Dmnds", 13);
         
-        
+       
     }
     
     
