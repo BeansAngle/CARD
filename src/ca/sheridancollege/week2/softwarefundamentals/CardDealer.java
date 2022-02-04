@@ -6,6 +6,7 @@
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
+ * vince
  * The class where we create Cards
  * @author dancye, 2019
  */
